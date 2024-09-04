@@ -2,7 +2,7 @@
 //  CommentViewer.h
 //  CommentViewer
 //
-//  Created by いちもつ青田 on 2018/04/05.
+//  Created by akasaaa on 2018/04/05.
 //  Copyright © 2018年 ichimots. All rights reserved.
 //
 
